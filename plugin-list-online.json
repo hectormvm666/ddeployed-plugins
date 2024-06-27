@@ -1,1 +1,20 @@
-
+[
+  {
+    "plugin-name": "prueba",
+    "plugin-description": "prueba",
+    "plugin-version": "1.0.0",
+    "plugin-link": ""
+  },
+  {
+    "plugin-name": "prueba2",
+    "plugin-description": "prueba2",
+    "plugin-version": "1.0.0",
+    "plugin-link": ""
+  },
+  {
+    "plugin-name": "prueba3",
+    "plugin-description": "prueba3",
+    "plugin-version": "1.0.0",
+    "plugin-link": ""
+  }
+]
