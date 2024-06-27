@@ -1,20 +1,22 @@
-[
-  {
-    "plugin-name": "prueba",
-    "plugin-description": "prueba",
-    "plugin-version": "1.0.0",
-    "plugin-link": ""
-  },
-  {
-    "plugin-name": "prueba2",
-    "plugin-description": "prueba2",
-    "plugin-version": "1.0.0",
-    "plugin-link": ""
-  },
-  {
-    "plugin-name": "prueba3",
-    "plugin-description": "prueba3",
-    "plugin-version": "1.0.0",
-    "plugin-link": ""
-  }
-]
+{
+  "plugins_list":[
+    {
+      "plugin_name": "prueba",
+      "plugin_description": "",
+      "plugin_version": "1.0.0",
+      "plugin_link": ""
+    },
+    {
+      "plugin_name": "prueba2",
+      "plugin_description": "",
+      "plugin_version": "2.0.0",
+      "plugin_link": ""
+    },
+    {
+      "plugin_name": "prueba3",
+      "plugin_description": "",
+      "plugin_version": "3.0.0",
+      "plugin_link": ""
+    }
+  ]
+}
